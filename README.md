@@ -4,6 +4,16 @@
 
 <p align="left">My name is Jerry Wang and I'm a Full Stack Software Developer</p>
 
+###
+
+<h2 aligh="left"> About Me </h2>
+
+###
+
+I am a recent graduate from the App Academy full-stack Software Engineer bootcamp. Prior to embarking on this coding journey, I pursued a graduate degree in Business Analytics at Tulane University and earned a Bachelor of Science with a double major in Mathematics and Statistics from the University of Toronto. My professional journey has been diverse, with experience spanning various financial institutes and roles as a Data Analyst and Business Analyst across different industries. I firmly believe that my background in finance and data analytics adds a valuable dimension to my technical expertise.
+My fascination with coding began during my graduate studies in business analytics, where I acquired foundational coding skills tailored for data analytics purposes. Witnessing the power of coding to execute tasks flawlessly when logic and methodology are applied correctly left a lasting impression on me. In a recent role, I collaborated with platform software engineers to develop automation functions for transforming backend data into a relational database, optimizing data analytics efficiency. This experience provided insights into website platform databases and their configurations, fueling my desire to delve deeper into software engineering to create algorithms and functions that simplify tasks and enhance user experiences.
+During my time at App Academy, I immersed myself in learning Ruby, JavaScript, and SQL, and honed my skills through personal and group projects using frameworks like Ruby on Rails, React, and Redux, as well as the MERN stack. Additionally, the bootcamp environment facilitated significant growth in communication skills, particularly in group settings. Daily pair programming sessions provided ample opportunities to articulate ideas effectively and collaborate seamlessly with peers.
+In summary, I believe my combination of data analytics expertise and technical proficiency gained from the bootcamp uniquely qualifies me for the position. I am eager to leverage my diverse skill set to contribute effectively to your team and drive impactful outcomes.
 
 
 ###
