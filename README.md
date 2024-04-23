@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jerry Wang and I'm a Full Stack Software Engineer</p>
+<p align="left">My name is Jerry Wang and I'm a Full Stack Software Developer</p>
 
 
 
